@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mari!
+- 🌱 I’m currently learning the ins and outs of technical documentation.
+- 💞️ I’m looking to collaborate on projects in need of documentation!
+- 😄 Pronouns: She/her
